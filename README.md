@@ -1,19 +1,19 @@
-### RENTMANAGER
+### RENTMANAGER<br/>
 
 ![Main Page](https://github.com/MollyXuemn/RentManager/blob/master/IMG/mainpage.jpeg)<br/>
 
-![Page d'Utilisateur](https://github.com/MollyXuemn/RentManager/blob/master/IMG/utilisateur.jpeg)
+![Page d'Utilisateur](https://github.com/MollyXuemn/RentManager/blob/master/IMG/utilisateur.jpeg)<br/>
 
 **Introduction:**
 
-Réalisation d'une application web Java qui a l’accès aux données eaquippé et ajouter les données de clients 
-<br/>
+Réalisation d'une application web Java qui a l’accès aux données eaquippé et ajouter les données de clients <br/>
+
 
 **Demarrage:**
 
 Vous pouvez installer Maven de version correspondante à votre version Java，<br/>
-et puis vous lancez avec: ``` mvn tomcat7:run```
-<br/>
+et puis vous lancez avec: ``` mvn tomcat7:run```<br/>
+
 
 **Problème :**
 
