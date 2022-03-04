@@ -1,6 +1,7 @@
 ### RENTMANAGER
 
 ![Main Page](https://github.com/MollyXuemn/RentManager/blob/master/IMG/mainpage.jpeg)
+
 ![Page d'Utilisateur](https://github.com/MollyXuemn/RentManager/blob/master/IMG/utilisateur.jpeg)
 
 **Introduction:**
@@ -10,7 +11,7 @@ Réalisation d'une application web Java qui a l’accès aux données eaquippé 
 
 **Demarrage:**
 
-Vous pouvez installer Maven de version correspondante à votre version Java,
+Vous pouvez installer Maven de version correspondante à votre version Java，<br/>
 et puis vous lancez avec: ``` mvn tomcat7:run```
 
 
