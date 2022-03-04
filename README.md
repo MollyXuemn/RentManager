@@ -1,6 +1,12 @@
-###RENTMANAGER 
+### RENTMANAGER
 
 ![Main Page](https://github.com/MollyXuemn/RentManager/blob/master/IMG/mainpage.jpeg)
+![Page d'Utilisateur](https://github.com/MollyXuemn/RentManager/blob/master/IMG/utilisateur.jpeg)
+
+**Introduction:**
+
+Réalisation d'une application web Java qui a l’accès aux données eaquippé et ajouter les données de clients 
+
 
 **Demarrage:**
 
